@@ -1,0 +1,24 @@
+==== LaplaceX Ultimate History ====
+Time: 11-06-2026 13:09:27
+Function: exp(67t)
+Transform: 1/(s - 67)
+-----------------------------------
+==== LaplaceX Ultimate History ====
+Time: 11-06-2026 15:26:32
+Function: sin(3t)
+Transform: 3/(s^2 + 9)
+-----------------------------------
+==== LaplaceX Ultimate History ====
+Time: 11-06-2026 15:52:47
+Function: sin(6t)
+Transform: 6/(s^2 + 36)
+-----------------------------------
+==== LaplaceX Ultimate History ====
+Time: 11-06-2026 15:52:47
+Function: sin(6t)
+Transform: 6/(s^2 + 36)
+-----------------------------------
+Time: 11-06-2026 15:57:31
+Function: sin(4t)
+Transform: 4/(s^2 + 16)
+-----------------------------------
